@@ -1,0 +1,20 @@
+package p10996;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		ArrayList array1 = new ArrayList();
+		ArrayList array2 = new ArrayList();
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		int input = scanner.nextInt();
+		
+		
+		
+	}
+
+}

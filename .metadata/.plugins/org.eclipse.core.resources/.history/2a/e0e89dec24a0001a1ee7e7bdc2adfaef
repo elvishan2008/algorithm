@@ -1,0 +1,43 @@
+package p2446;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+
+		int layer = scanner.nextInt();
+
+		int totalSpace = layer * 2 - 1;
+
+		for (int i = 0; i < layer; i++) {
+
+			for (int j = 0; j < totalSpace; j++) {
+
+				if (j < i || j >= totalSpace - i) {
+					System.out.print(" ");
+				} else {
+					System.out.print("*");
+				}
+
+			}
+			System.out.println("");
+		}
+		
+		for (int i = layer; i > 0; i--) {
+
+			for (int j = totalSpace; j > 0; j--) {
+
+				if (j <= i || j >= totalSpace - i) {
+					System.out.print(" ");
+				} else {
+					System.out.print("*");
+				}
+
+			}
+			System.out.println("");
+		}
+	}
+
+}

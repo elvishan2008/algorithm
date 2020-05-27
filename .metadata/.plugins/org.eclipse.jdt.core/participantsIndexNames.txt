@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2641689951.index
+\androidSpring\src\main\java
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\418587537.index
+\springflopo-20200526T183949Z-001\src
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3619971305.index
+\com\src\main\java
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1882342867.index
+\springflopo-20200526T183949Z-001\src
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1602239739.index
+\springflopo-20200526T183949Z-001\src
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2566032384.index
+\com\src\main\java
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\278623143.index
+\flopo01\src\main\java
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3313150127.index
+\flopo01\src\main\java
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2250921483.index
+\springflopo-20200526T183949Z-001\src
+D:\AlgorithmTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1680842919.index
+\androidSpring\src\main\java

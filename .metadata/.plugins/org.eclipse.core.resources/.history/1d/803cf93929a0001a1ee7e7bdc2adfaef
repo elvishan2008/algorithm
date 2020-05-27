@@ -1,0 +1,14 @@
+package p10996;
+
+import java.util.ArrayList;
+
+public class Main {
+
+	public static void main(String[] args) {
+		ArrayList array1 = new ArrayList();
+		ArrayList array2 = new ArrayList();
+		
+		
+	}
+
+}
