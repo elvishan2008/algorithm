@@ -1,0 +1,28 @@
+package p1065;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		int input = scanner.nextInt();
+		int answer = 0;
+		int firstDigit, secondDigit, thirdDigit;
+		
+		if (input<100) {
+			answer = input;
+		} else {
+			thirdDigit = input/100;
+			secondDigit = (input/10)%10;
+			firstDigit = input%10;
+		}
+		
+		
+		
+	}
+
+
+}

@@ -1,0 +1,34 @@
+package p11720;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int N = scanner.nextInt();
+		
+		long Numbers = scanner.nextInt();
+		
+		int tmp = 10;
+		int sum = 0;
+		
+		ArrayList<Integer> plate = new ArrayList<>();
+		
+		for(int i = 0; i < N; i++) {
+			
+			long digit = Numbers%tmp;
+			plate.add(digit);
+			
+			Numbers /= 10;
+		}
+		
+		for(int i = 0; i < plate.size(); i++) {
+			sum += plate.get(i); 
+		}
+		
+		System.out.println(sum);
+	}
+
+}
